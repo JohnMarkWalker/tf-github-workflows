@@ -17,6 +17,6 @@ spec:
     spec:
       containers:
         - name: myapp
-          image: johnmarkwalker/myimage:latest"
+          image: johnmarkwalker/myimage:latest
           ports:
             - containerPort: 80
